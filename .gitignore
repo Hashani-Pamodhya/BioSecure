@@ -1,0 +1,17 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Temporary testing project
+sample_project/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test cache
+.pytest_cache/
